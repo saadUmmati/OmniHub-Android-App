@@ -22,7 +22,9 @@ OmniHub is a sleek, professional Android application designed with a **Spectral 
 - **Lifecycle:** LiveData, ViewModel, Lifecycle-aware components
 
 ## 📸 Screenshots
-> *Add your app screenshots here to showcase the Spectral Intelligence theme!*
+> *App screenshots of Spectral Intelligence theme!*
+> <img width="1620" height="1119" alt="img3_page-0001" src="https://github.com/user-attachments/assets/3bebc639-71ca-4d1e-b43e-0aa48b323d1b" />
+
 
 ## 🚀 Getting Started
 
